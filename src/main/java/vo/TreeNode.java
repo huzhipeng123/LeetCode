@@ -10,17 +10,17 @@ public class TreeNode {
     /**
      * 节点值
      */
-    int val;
+    public int val;
 
     /**
      * 左孩子节点
      */
-    TreeNode left;
+    public TreeNode left;
 
     /**
      * 右孩子节点
      */
-    TreeNode right;
+    public TreeNode right;
 
     public TreeNode(int val){
         this.val = val;
